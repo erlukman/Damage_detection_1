@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>99.jpg</filename>
+	<path>C:\object_detection_1.1\data\images\99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spalling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>354</ymin>
+			<xmax>735</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Exposed Bricks</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>347</ymin>
+			<xmax>29</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>
